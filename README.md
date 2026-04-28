@@ -3,4 +3,4 @@
 
 A new way to taste discovery! Coming soon...
 
-![App Logo](zing/ZingAppLogo.png)
+<img src="(zing/ZingAppLogo.png)" width="200">
